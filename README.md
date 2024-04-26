@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center">A passionate Programmer from  Egypt</h3>
 
-<!--
-**UsamaRefaat/UsamaRefaat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+ 
+ 🔭 I’m currently working on **My Technical & Soft Skills**.
+ 
+ 🌱 I’m currently improving **My Problem Solving Skills**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💬 Lets get **Conected** [LinkedIn](https://www.linkedin.com/in/osama-refaat-5815242a6/)
+ </div>
+ <hr/>
